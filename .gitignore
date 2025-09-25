@@ -1,0 +1,36 @@
+# Node
+node_modules/
+package-lock.json
+
+# SQLite
+*.db
+*.sqbpro
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Uploads
+backend/uploads/
+
+# Logs
+*.log
+
+# Misc
+.env
+
+# Build
+/dist/
+/build/
+
+# Frontend
+frontend/node_modules/
+frontend/package-lock.json
+
+# Backend
+backend/node_modules/
+backend/package-lock.json
